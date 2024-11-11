@@ -23,7 +23,8 @@ modo, podríamos implementar mejoras operativas o realizar ajustes en el sistema
             * power bi, excel para ETL
             * Estructura cookiecutter
 
-Organización del proyecto
+## Organización del proyecto
+```
 ├── LICENSE            <- Open-source license if one is chosen
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
@@ -71,3 +72,6 @@ Organización del proyecto
     │
     └── visualization  <- Scripts to create exploratory and results oriented visualizations
         └── visualize.py
+```
+
+--------
