@@ -16,13 +16,6 @@ modo, podríamos implementar mejoras operativas o realizar ajustes en el sistema
 
 ## Descripción del Dataset y Origen
 
-## Herramientas utilizadas: 
-            * Librerías pandas, numpy, matplotlib, Scikit-learn
-            * Repositorio github, git
-            * Lenguaje python
-            * power bi, excel para ETL
-            * Estructura cookiecutter
-
 ## Organización del proyecto
 ```
 ├── LICENSE            <- Open-source license if one is chosen
