@@ -20,7 +20,10 @@ El problema de la producción de agua en Tierra del Fuego es cada vez más relev
 ❖	¿Qué tan precisas pueden ser las predicciones a corto y largo plazo utilizando los datos históricos disponibles? 
 ❖	¿Cómo podrían las políticas públicas o la gestión operativa influir en la mejora de la producción de agua, según las predicciones del modelo? 
 
-## Descripción del Dataset y Origen
+## Descripción del Dataset y Origen:
+
+Fecha de extracción de datos: 28/09/2024 
+Origen del data set: https://ipiec.tierradelfuego.gob.ar/estadisticas-del-medio-ambiente/ 
 
 ## Organización del proyecto
 ```
