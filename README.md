@@ -1,7 +1,7 @@
 ![alt text](image.png)
 
-## Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
-*Aprendizaje Automático
+## Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial <br> 
+*Aprendizaje Automático <br> 
 *Autor: Valeria Commatteo
 
 Machine Learning Model: "Prediccion de Produccion de Agua (Ushuaia - Rio Grande)"
