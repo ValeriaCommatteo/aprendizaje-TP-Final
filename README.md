@@ -14,11 +14,11 @@ modo, podríamos implementar mejoras operativas o realizar ajustes en el sistema
 El problema de la producción de agua en Tierra del Fuego es cada vez más relevante debido a la creciente demanda de la población y los efectos del cambio climático en las fuentes hídricas naturales. Factores como el derretimiento de nieve y glaciares tras el invierno, así como las variaciones en las precipitaciones a lo largo del año, afectan tanto la disponibilidad como la calidad del agua. Estas fluctuaciones pueden poner en riesgo el suministro continuo de agua, esencial para la población y las actividades económicas de la región. Dado el contexto actual y futuro, contar con un modelo que permita predecir estos cambios es fundamental para anticipar problemas y gestionar eficientemente los recursos hídricos. Con este modelo, se busca optimizar la planificación y la toma de decisiones en torno a la producción de agua, asegurando su disponibilidad a largo plazo en un entorno donde la sostenibilidad y el cuidado del recurso son cada vez más críticos.
 
 ## Preguntas de Investigación:
-❖	¿Cómo afecta el crecimiento de la población en Ushuaia y Río Grande a la demanda y producción de agua? 
-❖	¿Existen diferencias estacionales significativas en la producción de agua en las dos ciudades por separado, y cómo se comparan entre sí? 
-❖	¿Cuáles son los principales factores que influyen en los picos de producción de agua? (clima, consumo, infraestructura, temporada, etc) 
-❖	¿Qué tan precisas pueden ser las predicciones a corto y largo plazo utilizando los datos históricos disponibles? 
-❖	¿Cómo podrían las políticas públicas o la gestión operativa influir en la mejora de la producción de agua, según las predicciones del modelo? 
+❖	¿Cómo afecta el crecimiento de la población en Ushuaia y Río Grande a la demanda y producción de agua? <br> 
+❖	¿Existen diferencias estacionales significativas en la producción de agua en las dos ciudades por separado, y cómo se comparan entre sí? <br> 
+❖	¿Cuáles son los principales factores que influyen en los picos de producción de agua? (clima, consumo, infraestructura, temporada, etc) <br> 
+❖	¿Qué tan precisas pueden ser las predicciones a corto y largo plazo utilizando los datos históricos disponibles? <br> 
+❖	¿Cómo podrían las políticas públicas o la gestión operativa influir en la mejora de la producción de agua, según las predicciones del modelo? <br> 
 
 ## Descripción del Dataset y Origen:
 
